@@ -22,8 +22,7 @@ This paper presents a novel image captioning approach integrating Vision Transfo
 **Key Topics:** Image Captioning, Vision Transformer (ViT), Long Short-Term Memory (LSTM), Deep Learning, Visual Feature Extraction  
 - 📊 BLEU-1 Score: `0.9961`  
 - 📊 BLEU-4 Score: `0.9901`  
-- 🗂 Dataset: Flickr8k  
-📄 [Download Paper (PDF)](./Vit_LSTM.pdf) *(Convert to PDF if currently `.docx`)*  
+- 🗂 Dataset: Flickr8k   
 🔗 (https://www.scrs.in/conference/pccda2025/page/Best_Paper_Award_pccda2025)
 
 ---
@@ -50,7 +49,7 @@ Python, SQL, PyTorch, TensorFlow, Tableau, Git, VS Code
 
 Feel free to connect or reach out for collaborations:
 
-- 📧 Email: [arsh.mathur074@nmims.in](mailto:arsh.mathur074@nmims.in)  
+- 📧 Email: (arshmathur184@gmail.com)
 - 💼 LinkedIn: (https://www.linkedin.com/in/arsh-mohan-mathur-616870240/)  
 
 ---
