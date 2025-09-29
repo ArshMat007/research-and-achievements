@@ -50,7 +50,7 @@ Python, SQL, PyTorch, TensorFlow, Tableau, Git, VS Code
 Feel free to connect or reach out for collaborations:
 
 - 📧 Email: (arshmathur184@gmail.com)
-- 💼 LinkedIn: (https://www.linkedin.com/in/arsh-mohan-mathur-616870240/)  
+- 💼 LinkedIn: (https://www.linkedin.com/in/arshmathur/)  
 
 ---
 
